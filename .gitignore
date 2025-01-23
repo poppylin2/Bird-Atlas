@@ -1,0 +1,12 @@
+
+# 忽略虚拟环境目录
+venv/
+.venv/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+
+# IDE 配置文件
+
+.vscode/
