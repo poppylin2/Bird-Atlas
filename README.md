@@ -4,15 +4,15 @@
 
 Welcome to [**Bird Atlas**](https://birdatlas.streamlit.app/)!! This project is a deep dive into the fascinating world of birds. By harnessing the power of deep learning, this tool can identify over **500 bird species** with astonishing **97+% accuracy**! Whether you're an avid birdwatcher, a curious nature enthusiast, or someone looking to explore the diversity of our feathered friends, this project is for you. 🌿🐦
 
+**[**Live Website Here**](https://birdatlas.streamlit.app/)**
+  
+![image](https://github.com/user-attachments/assets/2738252e-118a-4de2-b2fd-2c5d5729a921)
+
 ## 🌟 Features
 - **Deep Learning Powerhouse**: Built using the EfficientNetB4 architecture, fine-tuned specifically for bird identification.
 - **Accuracy You Can Trust**: With an accuracy of **97.83%**, you can rely on this tool to correctly classify birds.
 - **Interactive Web App**: Upload a photo of a bird and get instant predictions, along with additional information about the species.
 - **Educational Tool**: Learn about birds with Wikipedia links and detailed descriptions presented directly in the app.
-
-**[**Live Website Here**](https://birdatlas.streamlit.app/)**
-  
-![image](https://github.com/user-attachments/assets/2738252e-118a-4de2-b2fd-2c5d5729a921)
 
 ## 🧠 How It Works
 
