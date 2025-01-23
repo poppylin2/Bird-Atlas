@@ -4,4 +4,4 @@ numpy
 pandas
 plotly
 Pillow
-wikipedia-api
+wikipedia
