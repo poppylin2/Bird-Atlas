@@ -5,3 +5,4 @@ pandas
 plotly
 Pillow
 wikipedia
+streamlit_lottie
