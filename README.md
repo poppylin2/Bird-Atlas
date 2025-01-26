@@ -2,17 +2,19 @@
 
 ### AI-Powered Bird Species Identification
 
-Welcome to [**Bird Atlas**](https://birdatlas.streamlit.app/)!! This project is a deep dive into the fascinating world of birds. By harnessing the power of deep learning, this tool can identify over **500 bird species** with astonishing **97+% accuracy**! Whether you're an avid birdwatcher, a curious nature enthusiast, or someone looking to explore the diversity of our feathered friends, this project is for you. 🌿🐦
+Welcome to [**Bird Atlas**](https://birdatlas.streamlit.app/)!! This project is a deep dive into the fascinating world of birds. By harnessing the power of deep learning, this tool can identify over **200 bird species** with astonishing **85+% Top-1 and 95+% Top-5 accuracy**! Whether you're an avid birdwatcher, a curious nature enthusiast, or someone looking to explore the diversity of our feathered friends, this project is for you. 🌿🐦
 
-**[**Live Website Here**](https://birdatlas.streamlit.app/)**
+## **[**Live Website Here**](https://birdatlas.streamlit.app/)**
   
-![image](https://github.com/user-attachments/assets/2738252e-118a-4de2-b2fd-2c5d5729a921)
+![image](https://github.com/user-attachments/assets/f37fe266-d66f-4483-be8b-8e15cad713e7)
 
 ## 🌟 Features
 - **Deep Learning Powerhouse**: Built using the EfficientNetB4 architecture, fine-tuned specifically for bird identification.
 - **Accuracy You Can Trust**: With an accuracy of **97.83%**, you can rely on this tool to correctly classify birds.
 - **Interactive Web App**: Upload a photo of a bird and get instant predictions, along with additional information about the species.
 - **Educational Tool**: Learn about birds with Wikipedia links and detailed descriptions presented directly in the app.
+
+![image](https://github.com/user-attachments/assets/26421d42-fa89-40b4-ba89-6420c8802019)
 
 ## 🧠 How It Works
 
@@ -32,10 +34,10 @@ After training the custom layers, we fine-tuned the last 10 layers of the Effici
 
 ## 📊 Model Performance
 This bird classifier was rigorously tested on unseen data and achieved:
-- **Accuracy**: 97.83%
-- **Precision**: 98.19%
-- **Recall**: 97.82%
-- **F1 Score**: 97.79%
+- **Accuracy**: 85%
+- **Precision**: 87%
+- **Recall**: 86%
+- **F1 Score**: 87%
 
 The results speak for themselves: this model is a powerhouse for bird classification! 🐦✨
 
